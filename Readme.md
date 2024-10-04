@@ -3,7 +3,7 @@ Analysis Project
 A data analysis project focusing on creating an interactive dashboard to analyze and visualize bike sharing data patterns and trends
 Overview
 
-This repository contains code for a Streamlit-based dashboard that allows users to explore bike sharing data patterns. The live version of the dashboard can be accessed at [Streamlit.app](https://bike-share-fika.streamlit.app/).
+This repository contains code for a Streamlit-based dashboard that allows users to explore bike sharing data patterns. The live version of the dashboard can be accessed at [Streamlit.app](https://arji-bike-share.streamlit.app/).
 
 > **Note**: The repository is primarily used for deploying the Streamlit app. If running locally, you'll need to modify the data directory paths in the code. The complete runnable code for local execution is included in the Dicoding project submission zip file.
 
@@ -32,12 +32,12 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/taufika94/bike-share.git
+   git clone https://github.com/Arrvold/bike-sharing.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd bike-sharing-py
+   cd bike-sharing
    ```
 
 3. Enter the dashboard directory:
