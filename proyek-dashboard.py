@@ -1,7 +1,8 @@
-import streamlit as st
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import streamlit as st
 
 # Fungsi untuk menampilkan total penggunaan sepeda berdasarkan hari kerja dan akhir pekan
 def tampilan_penyewaan_cuaca(hour_df):
